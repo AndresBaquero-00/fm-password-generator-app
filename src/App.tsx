@@ -12,7 +12,7 @@ import { PasswordOptions } from "./components/PasswordOptions";
 import { PasswordStrength } from "./components/PasswordStrength";
 
 import { appTheme } from "./themes";
-import { ButtonStyle } from "./themes/constants";
+import { ButtonStyle } from "./constants";
 import "./styles/global.css";
 
 export const App = () => {

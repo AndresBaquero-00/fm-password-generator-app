@@ -1,7 +1,7 @@
 import { Box, Typography } from "@mui/material";
 
 import { options } from "../constants";
-import { LevelStrengthStyle } from "../themes/constants";
+import { LevelStrengthStyle } from "../constants";
 
 type Props = {
     level: number;
